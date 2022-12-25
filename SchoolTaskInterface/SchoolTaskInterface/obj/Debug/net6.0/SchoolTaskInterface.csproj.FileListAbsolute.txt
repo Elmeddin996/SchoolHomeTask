@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\SchoolTaskInterface.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\SchoolTaskInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\SchoolTaskInterface.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\SchoolTaskInterface.AssemblyInfo.cs
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\SchoolTaskInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\bin\Debug\net6.0\SchoolTaskInterface.exe
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\bin\Debug\net6.0\SchoolTaskInterface.deps.json
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\bin\Debug\net6.0\SchoolTaskInterface.runtimeconfig.json
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\bin\Debug\net6.0\SchoolTaskInterface.dll
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\bin\Debug\net6.0\SchoolTaskInterface.pdb
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\SchoolTaskInterface.dll
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\refint\SchoolTaskInterface.dll
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\SchoolTaskInterface.pdb
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\SchoolTaskInterface.genruntimeconfig.cache
+C:\Users\User\source\repos\SchoolTaskInterface\SchoolTaskInterface\obj\Debug\net6.0\ref\SchoolTaskInterface.dll
